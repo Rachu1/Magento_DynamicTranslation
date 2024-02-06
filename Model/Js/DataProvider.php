@@ -1,6 +1,6 @@
 <?php
 
-namespace Mecodeninja\DynamicTranslation\Model\Js;
+namespace Dufry\DynamicTranslation\Model\Js;
 
 use Magento\Translation\Model\Js\DataProviderInterface;
 
