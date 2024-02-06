@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-translation/module-dynamic-translation",
+  "name": "dufry-translation/module-dynamic-translation",
   "version": "1.0.0",
   "description": "N/A",
   "type": "magento2-module",
@@ -15,7 +15,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Mecodeninja\\DynamicTranslation\\": ""
+      "Dufry\\DynamicTranslation\\": ""
     }
   }
 }
