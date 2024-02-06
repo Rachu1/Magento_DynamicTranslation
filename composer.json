@@ -5,7 +5,7 @@
   "type": "magento2-module",
   "require": {
     "magento/framework": "*",
-    "magento/module-translation": "100.4.6"
+    "magento/module-translation": "*"
   },
   "license": [
     "MIT"
