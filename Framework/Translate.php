@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Mecodeninja\DynamicTranslation\Framework;
+namespace Dufry\DynamicTranslation\Framework;
 
 use Magento\Framework\App\Filesystem\DirectoryList;
 use Magento\Framework\App\ObjectManager;
