@@ -1,6 +1,6 @@
 <?php
 
-namespace Mecodeninja\DynamicTranslation\Framework\File;
+namespace Dufry\DynamicTranslation\Framework\File;
 
 class Csv extends \Magento\Framework\File\Csv
 {
